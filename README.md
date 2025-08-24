@@ -1,4 +1,6 @@
-## Hi there, I´m Layon José 👋
+## Hi there, I´m Layon José 👋 
+
+<img src="assets/octocat.png" align="right" width="120">
 
 - 💼 Currently working at **Compass UOL** as an **AI/ML Developer (Junior)**
 - 🔭 I’m currently studying Information System at Universidade Federal do Espírito Santo(UFES)
