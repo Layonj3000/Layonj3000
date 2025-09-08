@@ -15,7 +15,7 @@
 [<img src="badges/aws-partner-cloud-economics-essentials.png" width="100">](https://www.credly.com/earner/earned/badge/fa2ebfef-33b2-46d6-9096-3b15bdac6b00)
 [<img src="badges/aws-partner-sales-accreditation.png" width="100">](https://www.credly.com/earner/earned/badge/0ff1c2bc-5db7-415b-bbb2-582b1a51b18e)
 [<img src="badges/aws-partner-technical-accredited.png" width="100">](https://www.credly.com/earner/earned/badge/662f634f-3e17-4ad8-873f-b499884e0abc)
-
+[<img src="badges/oracle-Fusion-AI-Agent-Studio-Certified-Foundations-Associate.png" width="100">](https://catalog-education.oracle.com/ords/certview/sharebadge?id=142DCDF54CB7818DD6AFA818F23FA688A1CB334B1403456785F5958FABF1A87A)
 
 ## 📫 Contact
 <div>
